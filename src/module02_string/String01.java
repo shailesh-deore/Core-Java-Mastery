@@ -1,6 +1,6 @@
 package module02_string;
 
-public class String1 {
+public class String01 {
     static void main(String[] args) {
 
         // STRING DATA TYPE: THE BASICS
