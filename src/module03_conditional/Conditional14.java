@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Conditional14 {
     static void main(String[] args) {
 
-        // ATM withdrawal system ok 
+        // ATM withdrawal system ok
         // build by me
 
         Scanner sc = new Scanner(System.in);
