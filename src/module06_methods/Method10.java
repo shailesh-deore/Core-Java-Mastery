@@ -3,6 +3,7 @@ package module06_methods;
 public class Method10 {
 
     // calculate student percentage with using standard percentage formula
+
     static  float calculatePercentage(int obtMarks, int totalMarks ){
 
         return  ((float)obtMarks *100)/totalMarks;
