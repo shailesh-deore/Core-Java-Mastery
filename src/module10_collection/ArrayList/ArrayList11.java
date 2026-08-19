@@ -189,6 +189,7 @@ public class ArrayList11 {
         System.out.println(completeList);
 
         System.out.println(completeList.size());
+        
 
     }
 }
