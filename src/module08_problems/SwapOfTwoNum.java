@@ -36,7 +36,7 @@ public class SwapOfTwoNum {
         n1 = n1 - n2;
 
         System.out.println("after swaping n1 & n2 are : " + n1 + " & " + n2);
-        
+
 
     }
 }
