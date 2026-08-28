@@ -35,6 +35,8 @@ public class Loops22 {
         System.out.println("Even digits = " + evenCount);
         System.out.println("Odd digits = " + oddCount);
 
+
         sc.close();
+
     }
 }
