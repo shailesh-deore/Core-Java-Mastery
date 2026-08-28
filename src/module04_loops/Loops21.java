@@ -25,6 +25,8 @@ public class Loops21 {
 
         System.out.println("Greatest number = " + greatest);
 
+
         sc.close();
+
     }
 }
