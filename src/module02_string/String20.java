@@ -13,5 +13,6 @@ public class String20 {
         } else {
             System.out.println("Regular word. It is not a palindrome.");
         }
+
     }
 }
