@@ -25,5 +25,6 @@ public class Method17 {
         System.out.println(res1);
 
         System.out.println(ToUpper("  vipul   "));
+
     }
 }
