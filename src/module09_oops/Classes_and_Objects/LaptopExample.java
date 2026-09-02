@@ -42,5 +42,7 @@ public class LaptopExample {
 
         System.out.println("--- Laptop 2 Profile ---");
         laptop2.displaySpecifications();
+
+
     }
 }
